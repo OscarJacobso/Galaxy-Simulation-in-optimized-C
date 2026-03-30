@@ -1,6 +1,6 @@
 # Galaxy Simulation in C
 
-This project contains three C implementations of an N-body galaxy simulation:
+This project contains three C implementations of an N-body galaxy simulation :
 
 - `galsim.c`
 - `galsimCallOpt.c`
